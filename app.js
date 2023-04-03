@@ -37,6 +37,7 @@ const {
   addKey,
   retrieveKey,
   deleteKey,
+  incrKey
 } = require('./lib/helpers/realtimedb-helpers');
 const {
   getTtsVoices
